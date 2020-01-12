@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 952029b4afc2cce41adbb28322570e73
+timeCreated: 1513184062
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fox_
+    100004: Fox_ Head
+    100006: Fox_ L Calf
+    100008: Fox_ L Clavicle
+    100010: Fox_ L Finger0
+    100012: Fox_ L Foot
+    100014: Fox_ L Forearm
+    100016: Fox_ L Hand
+    100018: Fox_ L HorseLink
+    100020: Fox_ L Thigh
+    100022: Fox_ L UpperArm
+    100024: Fox_ Neck
+    100026: Fox_ Neck1
+    100028: Fox_ Neck2
+    100030: Fox_ Pelvis
+    100032: Fox_ Queue de cheval 1
+    100034: Fox_ R Calf
+    100036: Fox_ R Clavicle
+    100038: Fox_ R Finger0
+    100040: Fox_ R Foot
+    100042: Fox_ R Forearm
+    100044: Fox_ R Hand
+    100046: Fox_ R HorseLink
+    100048: Fox_ R Thigh
+    100050: Fox_ R UpperArm
+    100052: Fox_ Spine
+    100054: Fox_ Spine1
+    100056: Fox_ Tail
+    100058: Fox_ Tail1
+    100060: Fox_ Tail2
+    100062: Fox_ Tail3
+    100064: Fox_ Tail4
+    100066: Fox_ Tail5
+    100068: root
+    400000: //RootNode
+    400002: Fox_
+    400004: Fox_ Head
+    400006: Fox_ L Calf
+    400008: Fox_ L Clavicle
+    400010: Fox_ L Finger0
+    400012: Fox_ L Foot
+    400014: Fox_ L Forearm
+    400016: Fox_ L Hand
+    400018: Fox_ L HorseLink
+    400020: Fox_ L Thigh
+    400022: Fox_ L UpperArm
+    400024: Fox_ Neck
+    400026: Fox_ Neck1
+    400028: Fox_ Neck2
+    400030: Fox_ Pelvis
+    400032: Fox_ Queue de cheval 1
+    400034: Fox_ R Calf
+    400036: Fox_ R Clavicle
+    400038: Fox_ R Finger0
+    400040: Fox_ R Foot
+    400042: Fox_ R Forearm
+    400044: Fox_ R Hand
+    400046: Fox_ R HorseLink
+    400048: Fox_ R Thigh
+    400050: Fox_ R UpperArm
+    400052: Fox_ Spine
+    400054: Fox_ Spine1
+    400056: Fox_ Tail
+    400058: Fox_ Tail1
+    400060: Fox_ Tail2
+    400062: Fox_ Tail3
+    400064: Fox_ Tail4
+    400066: Fox_ Tail5
+    400068: root
+    7400000: ANIM_Fox_IdleBreathe
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ANIM_Fox_IdleBreathe
+      takeName: Unreal Take
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
